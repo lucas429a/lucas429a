@@ -1,6 +1,5 @@
  Olá! Sou um desenvolvedor Full Stack focado em Node.js, TypeScript, React e MUI.
 
-🚀 Apaixonado por criar aplicações escaláveis e bem estruturadas, com ênfase em boas práticas, arquitetura limpa e TDD.
 
 🛠️ Tecnologias principais:
 

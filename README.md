@@ -1,14 +1,5 @@
- Olá! Sou um desenvolvedor Full Stack focado em Node.js, TypeScript, React e MUI.
+I'm a developer graduated from Kenzie Academy Brasil, I've been studying for over 3 years and have more than a year of experience working at a company developing robust and scalable solutions.
 
+Throughout my journey, I've developed expertise in architectures such as SOLID, Clean Architecture, DDD e TDD, always seeking clean and maintainable code.
 
-🛠️ Tecnologias principais:
-
-Backend: Node.js, TypeScript, Prisma, PostgreSQL
-Frontend: React, MUI, Vite
-Outros: PDFme, processamento de arquivos (CSV, XML, ZPL, TXT)
-💡 Atualmente, estou trabalhando em um sistema para padronização e geração de etiquetas a partir de arquivos brutos.
-
-<!---
-lucas429a/lucas429a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I work with modern technologies in frontend and backend, using TS and Python and frameworks like React, Django and Node, always focused on delivering value through quality software.
